@@ -133,10 +133,6 @@ pcsx2 에 패치된.iso를 넣고 실행해 봅시다
 -----------------------------------------  
 
 <img width="657" height="422" alt="image" src="https://github.com/user-attachments/assets/2ab3b632-2279-45de-b83d-165510ad64d0" />  
-<img width="657" height="422" alt="image" src="https://github.com/user-attachments/assets/6c5cffe5-a285-4f80-a1b9-900ab56f7186" />  
-<img width="657" height="422" alt="image" src="https://github.com/user-attachments/assets/ce9655ed-27c3-46d3-b087-1ab4d791c0e1" />  
-<img width="657" height="422" alt="image" src="https://github.com/user-attachments/assets/c9bbde12-8062-4e0c-9ac3-dc31362ebb60" />
-
 
 
 
